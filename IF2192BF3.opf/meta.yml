@@ -1,0 +1,36 @@
+id: IF2192BF3
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T00:59:37.780270'
+last_modified: '2022-06-19T00:59:37.780284'
+parser: null
+source_metadata:
+  title: Brief History of Gongkar Choede Monastery
+  author: དགེ་འདུན་རབ་གསལ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2015-04-01);
+    converted from external file, revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:བློ་གསལ་དོན་གྲུབ། (ld)
+  - Editorial process:Mathias Fermer (mf), བློ་གསལ་དོན་གྲུབ། (ld)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:བློ་གསལ་དོན་གྲུབ། (ld)
+  text_witnesses: https://sakyaresearch.org/sources/26
+  bases:
+    edfe:
+      title: Brief History of Gongkar Choede Monastery
+      order: 1
+      base_file: edfe.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
